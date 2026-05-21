@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rudy! <br/><a href="https://github.com/Rgonzales92">Help Desk Technician</a>, <a href="https://www.linkedin.com/in/rudy-gonzales-8a97451a1">Domain Admin</a>,
+<h1>Hi, I'm Rudy! <br/><a href="https://github.com/Rgonzales92">Help Desk Technician</a>, <a href="https://www.linkedin.com/in/rudy-gonzales92">Domain Admin</a>,
 
 <h2>👨‍💻 Projects:</h2>
 
