@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Virtual Labs</b>
 
 - <b>PowerShell</b>
   
