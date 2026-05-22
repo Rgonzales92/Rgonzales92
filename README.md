@@ -4,6 +4,7 @@
 
 - <b>Virtual Labs</b>
   - [Active Directory Lab](https://github.com/Rgonzales92/Active-Directory)
+  - [OPNSenseVlan-DHCP](https://github.com/Rgonzales92/OPNSenseVlan-DHCP)
 - <b>PowerShell</b>
   
 
